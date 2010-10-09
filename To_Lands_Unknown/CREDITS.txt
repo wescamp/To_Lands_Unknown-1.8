@@ -1,0 +1,24 @@
+--Credits--
+
+"Campaign Design"
+ - inferno8
+
+"WML Coding"
+ - inferno8
+
+"Artwork & Levels Design"
+ - inferno8
+
+"Feature Adviser"
+ - barowei
+
+"Proof-reading"
+ - sur.nhm
+ - Dixie
+ - wesfreak
+ - bigkahuna
+
+"Gameplay Testing"
+ - inferno8
+ - Sagez
+ - barowei
