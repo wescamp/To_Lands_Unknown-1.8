@@ -22,3 +22,8 @@
  - inferno8
  - Sagez
  - barowei
+ - bvanevery
+ - Captain_Wrathbow
+
+"Terrain Code Improvements"
+ - Alarantalara
