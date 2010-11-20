@@ -9,7 +9,8 @@
 "Artwork & Levels Design"
  - inferno8
 
-"Feature Adviser"
+"Writing Tweaks"
+ - bvanevery
  - barowei
 
 "Proof-reading"
@@ -17,6 +18,7 @@
  - Dixie
  - wesfreak
  - bigkahuna
+ - Mitvailer
 
 "Gameplay Testing"
  - inferno8
