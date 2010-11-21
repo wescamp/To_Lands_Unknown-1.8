@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-11-13 02:22+0100\n"
+"POT-Creation-Date: 2010-11-21 18:15+0100\n"
 "PO-Revision-Date: 2010-10-13 00:44+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -97,16 +97,16 @@ msgstr ""
 
 #. [about]
 #: To_Lands_Unknown/_main.cfg:68
-msgid "Feature Advisor"
+msgid "Writing Tweaks"
 msgstr ""
 
 #. [about]
-#: To_Lands_Unknown/_main.cfg:74
+#: To_Lands_Unknown/_main.cfg:77
 msgid "Proof-reading"
 msgstr ""
 
 #. [about]
-#: To_Lands_Unknown/_main.cfg:89
+#: To_Lands_Unknown/_main.cfg:92
 msgid "Gameplay Testing"
 msgstr ""
 
@@ -131,44 +131,44 @@ msgstr ""
 msgid "Turn into {ELEM}"
 msgstr ""
 
-#: To_Lands_Unknown/macros/macros.cfg:652
-#: To_Lands_Unknown/macros/macros.cfg:774
-#: To_Lands_Unknown/macros/macros.cfg:844
-#: To_Lands_Unknown/macros/macros.cfg:915
-#: To_Lands_Unknown/macros/macros.cfg:995
-#: To_Lands_Unknown/macros/macros.cfg:1076
+#: To_Lands_Unknown/macros/macros.cfg:684
+#: To_Lands_Unknown/macros/macros.cfg:806
+#: To_Lands_Unknown/macros/macros.cfg:876
+#: To_Lands_Unknown/macros/macros.cfg:947
+#: To_Lands_Unknown/macros/macros.cfg:1027
+#: To_Lands_Unknown/macros/macros.cfg:1108
 msgid "Take it"
 msgstr ""
 
-#: To_Lands_Unknown/macros/macros.cfg:674
-#: To_Lands_Unknown/macros/macros.cfg:807
-#: To_Lands_Unknown/macros/macros.cfg:878
-#: To_Lands_Unknown/macros/macros.cfg:958
-#: To_Lands_Unknown/macros/macros.cfg:1039
-#: To_Lands_Unknown/macros/macros.cfg:1125
+#: To_Lands_Unknown/macros/macros.cfg:706
+#: To_Lands_Unknown/macros/macros.cfg:839
+#: To_Lands_Unknown/macros/macros.cfg:910
+#: To_Lands_Unknown/macros/macros.cfg:990
+#: To_Lands_Unknown/macros/macros.cfg:1071
+#: To_Lands_Unknown/macros/macros.cfg:1157
 msgid "Leave it"
 msgstr ""
 
-#: To_Lands_Unknown/macros/macros.cfg:712
+#: To_Lands_Unknown/macros/macros.cfg:744
 msgid ""
 "At the moment you do not have a unit in your army, who could use this "
 "artifact. However the item will be picked up, so it can wait for a suitable "
 "unit to be recruited or recalled."
 msgstr ""
 
-#: To_Lands_Unknown/macros/macros.cfg:770
+#: To_Lands_Unknown/macros/macros.cfg:802
 msgid "Should the unit pick up the carpet?"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:778
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:166
+#: To_Lands_Unknown/macros/macros.cfg:810
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:172
 msgid "Golden Carpet"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:783
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:171
+#: To_Lands_Unknown/macros/macros.cfg:815
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:177
 msgid ""
 "Wove of golden threads, inspired by Abyssal winds. Everyone, who possesses "
 "this ancient vehicle, gains amazing speed and agility.\n"
@@ -176,19 +176,19 @@ msgid ""
 "Negates zones of control (grants the skirmisher ability)"
 msgstr ""
 
-#: To_Lands_Unknown/macros/macros.cfg:840
+#: To_Lands_Unknown/macros/macros.cfg:872
 msgid "Should the unit pick up the cloak?"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:848
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:223
+#: To_Lands_Unknown/macros/macros.cfg:880
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:229
 msgid "Desert Cloak"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:853
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:228
+#: To_Lands_Unknown/macros/macros.cfg:885
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:234
 msgid ""
 "Marked with mysteroius symbols, this cloak was enchanted a long time ago, "
 "but it still grants it's owner good protection against fire.\n"
@@ -196,19 +196,19 @@ msgid ""
 "Grants 50% fire resistance"
 msgstr ""
 
-#: To_Lands_Unknown/macros/macros.cfg:911
+#: To_Lands_Unknown/macros/macros.cfg:943
 msgid "Should the unit pick up the spear?"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:919
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:350
+#: To_Lands_Unknown/macros/macros.cfg:951
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:356
 msgid "Spear of Rhami"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:924
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:355
+#: To_Lands_Unknown/macros/macros.cfg:956
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:361
 msgid ""
 "This weapon, forgged from the light of Abyss, is a part of equipement used "
 "by magical entities called Rhami'kai. The Ancestors stolen one of those "
@@ -217,19 +217,19 @@ msgid ""
 "Increases the attack by 20%"
 msgstr ""
 
-#: To_Lands_Unknown/macros/macros.cfg:991
+#: To_Lands_Unknown/macros/macros.cfg:1023
 msgid "Should the unit pick up the collar?"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:999
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:385
+#: To_Lands_Unknown/macros/macros.cfg:1031
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:391
 msgid "Collar of Recall"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:1005
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:391
+#: To_Lands_Unknown/macros/macros.cfg:1037
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:397
 msgid ""
 "A legendary artifact, the masterpiece made by Ancestors. In olden times a "
 "magical collar was made, which putted on a magical being, can recall it "
@@ -240,31 +240,31 @@ msgid ""
 msgstr ""
 
 #. [value]: id=collar
-#: To_Lands_Unknown/macros/macros.cfg:1013
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:403
+#: To_Lands_Unknown/macros/macros.cfg:1045
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:409
 msgid "collar"
 msgstr ""
 
 #. [value]: id=collar
-#: To_Lands_Unknown/macros/macros.cfg:1014
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:404
+#: To_Lands_Unknown/macros/macros.cfg:1046
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:410
 msgid ""
 "After death the unit is recalled back to leader. Activates only 3 times."
 msgstr ""
 
-#: To_Lands_Unknown/macros/macros.cfg:1072
+#: To_Lands_Unknown/macros/macros.cfg:1104
 msgid "Should the unit pick up the amulet?"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:1080
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:423
+#: To_Lands_Unknown/macros/macros.cfg:1112
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:429
 msgid "Amulet of Metamorph"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/macros/macros.cfg:1085
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:428
+#: To_Lands_Unknown/macros/macros.cfg:1117
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:434
 msgid ""
 "Ancestors always fascinated with elementals - entities made of pure energy. "
 "They also dreamed about creating a creature being a mix of all 4 known "
@@ -289,31 +289,30 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:486
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:596
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:679
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:196
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:280
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:338
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:419
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:492
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:388
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:539
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:678
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:197
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:285
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:348
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:431
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:506
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:438
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:577
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:122
 #: To_Lands_Unknown/scenarios/17_TheLastSummoner.cfg:293
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:25
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:638
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:185
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:239
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:240
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:85
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:555
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:329
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:480
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:619
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:90
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:236
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:338
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:477
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:592
-#: To_Lands_Unknown/scenarios/10_Message.cfg:241
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:556
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:382
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:521
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:96
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:241
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:347
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:417
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:505
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:620
+#: To_Lands_Unknown/scenarios/10_Message.cfg:244
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:472
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:847
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:200
@@ -417,9 +416,9 @@ msgstr ""
 msgid "Enemy"
 msgstr ""
 
-#. [event]: id=Aerius, id=Guru side 3}, id=Rashti canrecruit yes}
+#. [event]: id=Aerius, id=Guru side 3}
 #. [side]: type=I8 enlightened_master_of_air, id=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:135
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:145
 #: To_Lands_Unknown/scenarios/02_Abyss.cfg:43
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:37
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:41
@@ -465,6 +464,7 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:242
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:866
 msgid "Who... who are you?"
 msgstr ""
 
@@ -496,7 +496,7 @@ msgstr ""
 #. [message]: speaker=Safay
 #. [message]: id=Mehir
 #: To_Lands_Unknown/scenarios/01_Al_Kamija.cfg:331
-#: To_Lands_Unknown/scenarios/10_Message.cfg:314
+#: To_Lands_Unknown/scenarios/10_Message.cfg:317
 msgid "Yes, sir!"
 msgstr ""
 
@@ -904,9 +904,7 @@ msgstr ""
 msgid "RUN!!!"
 msgstr ""
 
-#. [event]: id=Bakha, id=Bakha (I8 Tharis_Shadowmatriarch)}
 #. [unit]: id=Bakha, type=I8 Ak_HeavyCamelRider
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:836
 #: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:151
 msgid "Bakha"
 msgstr ""
@@ -919,14 +917,14 @@ msgid "Rhaxiz"
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:212
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:213
 msgid ""
 "We advance in a good pace. If it we don't slow down, we will be in the Abyss "
 "sooner than it was planned."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:216
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:217
 msgid ""
 "Indeed. The workers from Sud-Affar are very diligent, but this is also "
 "thanks to me, the supervisor. And now get back to work! What are you waiting "
@@ -934,80 +932,80 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:220
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:221
 msgid "We have a problem, my lord."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:224
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:225
 msgid "What are you talking about?!"
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:228
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:229
 msgid ""
 "There's a jungle, over there, just in front of the path of the Circle. We "
 "will have to move through it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:232
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:233
 msgid ""
 "And that is the problem? We have fire elementals; they will burn the path in "
 "front of us."
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:236
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:237
 msgid ""
 "Maybe we should check if it is safe enough to work in there? It gives me the "
 "creeps."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:240
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:241
 msgid "Quite right! Mobilize your people, we will be moving soon."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:253
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:254
 msgid "This area looks safe..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:258
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:259
 msgid "Wait! Did you hear that?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:301
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:302
 msgid "It looks like we're not alone. Prepare yourselves!"
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:316
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:317
 msgid ""
 "They are... lizards... and that one is probably their leader. See all of "
 "those feathers. Maybe we should talk with them?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:320
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:321
 msgid "Ah, yes, well... Welcome, we come in peace."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:324
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:325
 msgid "(whispers)...though everything will go up in smoke soon..."
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:328
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:329
 msgid "My Lord!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:332
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:333
 msgid ""
 "Oops, sorry. What I was trying to... ah. So we come from the desert, "
 "precisely speaking from the city, of which the highest tower can be seen in "
@@ -1015,117 +1013,117 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:336
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:337
 msgid "Lord, they don't understand. Maybe we should show them?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:340
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:341
 msgid ""
 "How should I show them the Abyss and fried lizards, I wonder? Okay, okay, "
 "I'll try. Maybe we will avoid trouble..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:346
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:347
 msgid "A few quarters later..."
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:350
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:351
 msgid ""
 "I am afraid they still don't understand. Maybe we should show them a magical "
 "entity?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:354
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:355
 msgid "The only scroll I have summons a Fire Elemental. Let's try."
 msgstr ""
 
 #. [message]: speaker=Rhaxiz
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:367
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:368
 msgid "Raa!! Xazi Xsi! Xsi! hissssss!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:410
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:411
 msgid "We're surrounded! I have almost succeeded."
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:414
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:415
 msgid ""
 "This is my fault. Allow me atone it. I will stop them, and you run to the "
 "camp!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:418
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:419
 msgid ""
 "Your bravery is amazing. Maybe I will manage to send you some reinforcements."
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:422
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:423
 msgid "Don't worry about us. You must protect the circle at all costs!"
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:449
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:450
 msgid "And, RUN!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:485
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:486
 msgid "ALERT!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:539
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:540
 msgid ""
 "Let someone inform Sud-Affar! We are under attack! We need reinforcements!"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:551
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:552
 msgid "Defend the camp"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:626
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:627
 msgid "Holy Efreeti! What is THAT?!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:644
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:645
 msgid "Oh no, please! We can't survive such an attack by such a thing!"
 msgstr ""
 
 #. [message]: speaker=LizardMessenger
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:661
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:668
 msgid ""
 "(that lizard says something, but it is too far away for Mehir to hear "
 "anything)"
 msgstr ""
 
 #. [message]: speaker=LizardMessenger
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:685
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:699
 msgid "Rha! Xsisss, sefffissss!"
 msgstr ""
 
 #. [message]: speaker=lastbackup
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:701
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:715
 msgid "Seeetfuu! Txsiii hassith!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:717
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:731
 msgid "Huh? They withdrawing? We are safe!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:721
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:735
 msgid ""
 "No, wait - we are still under attack! Continue defending - now we can stop "
 "them."
@@ -1133,12 +1131,12 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:434
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:749
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:763
 msgid "That's the last of them."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:753
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:767
 msgid ""
 "It looks like the fire elementals make them furious. If I wouldn't have "
 "shown him, everything would have ended in a different way. Too many lives "
@@ -1146,7 +1144,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:757
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:771
 msgid ""
 "The reinforcements from Sud-Affar will come soon. We must be on our guard. "
 "There is a large tropical forest in front of us full of dangerous creatures. "
@@ -1154,7 +1152,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:761
+#: To_Lands_Unknown/scenarios/03_EastofSudAffar.cfg:775
 msgid ""
 "Send someone to the city for machetes and saws. We can forget about fire "
 "elementals for the time being."
@@ -1307,8 +1305,8 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:457
 msgid ""
-"I will fight with my own men. I must atone my last mistake. Wish me luck, "
-"Jaffar."
+"I will fight with my own men, what's left of them. Bakha died for my "
+"mistakes, and I must atone. Wish me luck, Jaffar."
 msgstr ""
 
 #. [message]: speaker=Jaffar
@@ -1332,9 +1330,7 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:482
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:423
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:496
-msgid "Death of any lizard"
+msgid "Death of any lizard killed by you"
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -1413,92 +1409,100 @@ msgstr ""
 msgid "Huh?"
 msgstr ""
 
+#. [message]: speaker=narrator
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:719
+msgid ""
+"Tip: You can use the Heavy Summoner's summon ability to create new units. "
+"Right-click on him for details.\n"
+"(All lvl3 Summoners have this ability)"
+msgstr ""
+
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:720
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:725
 msgid "Hey, What is that salamander doing out there? He's calling me."
 msgstr ""
 
 #. [message]: id=capitan
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:801
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:806
 msgid "Take them!!!"
 msgstr ""
 
 #. [message]: speaker=Broghur
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:805
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:810
 msgid "Hah! Die, bastards!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
 #. [message]: speaker=Anthi
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:809
-#: To_Lands_Unknown/scenarios/10_Message.cfg:204
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:814
+#: To_Lands_Unknown/scenarios/10_Message.cfg:207
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:541
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:153
 msgid "!!!"
 msgstr ""
 
 #. [message]: speaker=Broghur
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:824
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:829
 msgid "I curse you all!!!"
 msgstr ""
 
 #. [message]: speaker=Rhaxiz
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:828
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:833
 msgid "Shatizakaaaaiii!"
 msgstr ""
 
 #. [message]
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:837
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:842
 msgid "Brogh'ur's dead! Run!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:873
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:878
 msgid "We did it! They are defeated!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:890
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:895
 msgid "Do you hear that? It's like the sound of flapping wings..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:906
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:911
 msgid "Chaos Wyvern"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:908
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:913
 msgid "RRRHHHAAAAHHH! Sur kav NAX!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:912
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:917
 msgid "We've... got... a problem."
 msgstr ""
 
 #. [message]: speaker=Krog
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:954
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:959
 msgid "ROOOOAAAARRRRR!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:974
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:979
 msgid "The leader of lizards is dead. We have lost our chance..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:985
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:990
 msgid "Nooo!!!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:1028
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:1033
 msgid "Mehir! You thief! Take him!"
 msgstr ""
 
 #. [message]: speaker=Jaffar
-#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:1056
+#: To_Lands_Unknown/scenarios/04_SouthernNations.cfg:1061
 msgid "Mehir! You've brought those beasts here! I will punish you myself!"
 msgstr ""
 
@@ -1563,7 +1567,8 @@ msgid ""
 "Fire Canyon to rescue those lizards. They promised him that if all captured "
 "lizards will be returned in one piece, the Summoners will be given a "
 "permission to continue their work in the Darkblooded's territory. At the "
-"same time Jaffar was held as a hostage, against the lizards' well being."
+"same time Jaffar and his massive chest of gold were held hostage, against "
+"the lizards' well being."
 msgstr ""
 
 #. [part]
@@ -1581,174 +1586,199 @@ msgid "Post"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:155
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:156
 msgid ""
 "That's the place. I can see cages and... there are captured lizards inside."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:171
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:172
 msgid ""
 "It looks like we will have to attack the fortress ahead in order to reach "
 "them."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:175
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:176
 msgid ""
 "However, this isn't the jungle - it's time we use those Fire Elementals. We "
 "must cross this bridge first, however, otherwise it will burn and we won't "
-"be able to return."
+"be able to return. Also, we should hurry up - the lizards may not survive "
+"the night in this hostile environment."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:180
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:181
 msgid "Seize the post on the other side"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:184
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:272
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:185
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:277
 msgid "Release the lizards"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:188
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:276
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:334
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:189
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:281
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:344
 msgid "Defeat the barbarians"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:192
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:284
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:346
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:193
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:289
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:356
 msgid "The bridge is burnt"
 msgstr ""
 
+#. [objective]: condition=lose
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:201
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:293
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:360
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:443
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:518
+msgid "Time runs out"
+msgstr ""
+
 #. [message]: speaker=GLeader
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:223
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:228
 msgid "We're under attack!"
 msgstr ""
 
 #. [message]: speaker=BLeader
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:227
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:232
 msgid ""
 "Strange, they don't look like those green bastards. I wonder what they want, "
 "but never mind... KILL THEM!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:231
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:236
 msgid ""
 "Quick! We must seize this post - I will be able to summon our Elementals "
 "from there."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:257
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:262
 msgid "At last! Feel the fires of the Abyss!"
 msgstr ""
 
 #. [message]: speaker=BLeader
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:264
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:269
 msgid "What the hell is that? A walking bonfire? DESTROY IT!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:329
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:339
 msgid ""
 "That's the last of them. Let's defeat the rest of the barbarians and get out "
 "of here."
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:342
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:352
 msgid "A lizard dies"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:354
-msgid ""
-"Phew, somehow, we did it. Night will fall soon. It is better for us to be "
-"far away from here. Let's move out."
-msgstr ""
-
-#. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:410
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:483
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:422
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:497
 msgid ""
 "That's the last of them. Let's defeat the rest and get out of this place."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:415
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:488
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:427
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:502
 msgid "Defeat barbarians"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:427
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:500
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:435
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:510
+msgid "Death of any lizard"
+msgstr ""
+
+#. [objective]: condition=lose
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:439
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:514
 msgid "Burning of the bridge"
 msgstr ""
 
-#. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:435
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:508
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:642
-msgid ""
-"Phew, somehow we did it. Night will fall soon. It will be better for us to "
-"be far away from here. Let's move out."
-msgstr ""
-
 #. [message]: type=I8_DB_Shaman
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:525
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:540
 msgid "Freedom! Tell me, who are you?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:529
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:544
 msgid "The Keeper send us. We're here to rescue you."
 msgstr ""
 
 #. [message]: type=I8_DB_Shaman
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:533
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:548
 msgid ""
 "I believe you. None of foreigners knows such details. Please take us from "
 "this place. The desert almost dried us to death."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:652
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:664
 msgid "Let's rescue the lizards."
 msgstr ""
 
 #. [message]: speaker=BLeader
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:678
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:690
 msgid ""
 "Those fools managed to break through... Probably you have come for these "
 "green savages. NEVER! TROLLS, GET THEM!!!"
 msgstr ""
 
 #. [message]: speaker=BLeader
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:717
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:729
 msgid "You will never rescue them! NEVER!!! KNOCK THEM OFF!"
 msgstr ""
 
 #. [message]: type=I8 Barbarian_CyclopBreaker
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:721
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:733
 msgid "I DO IT!!!"
 msgstr ""
 
 #. [message]: type=I8 Barbarian_OrcishBloodWarrior
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:726
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:738
 msgid "And I defend the bridge!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:730
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:742
 msgid "We must stop them!"
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:887
+msgid ""
+"I am glad the lizards are free. They will be grateful, and bring us that "
+"much closer to completing the Circle. But I have lost $s05_deaths| men "
+"today, and more before. Are they grateful? At least elementals do not mind "
+"their deaths."
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:899
+msgid ""
+"I am glad the lizards are free. They will be grateful, and bring us that "
+"much closer to completing the Circle. But I have lost 1 man today, and more "
+"before. Are they grateful? At least elementals do not mind their deaths."
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown/scenarios/05_FireCanyon.cfg:905
+msgid ""
+"I am glad the lizards are free. They will be grateful, and bring us that "
+"much closer to completing the Circle. I didn't lose a man today. I made no "
+"mistakes. Dead men are not grateful... dead elementals are no matter."
 msgstr ""
 
 #. [scenario]: id=06_GatesToThePast
@@ -1841,8 +1871,8 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/06_GatesToThePast.cfg:109
 msgid ""
-"It's time to check if the rumours are true or not. The trail of the leader "
-"of Tar-Tabar leads to this place. We should better watch our steps."
+"It's time to check if the rumours are true or not. Tashkar's trail leads to "
+"this place. We should better watch our steps."
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
@@ -1857,47 +1887,47 @@ msgid "Unknown"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:72
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:78
 msgid "What an amazing place..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:76
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:82
 msgid ""
-"It looks like there's no-one else. We need to remain together. These caves "
-"are home for many dangerous creatures like bats or spiders. Nevertheless we "
-"should make a thorough search. Maybe we will find some treasures, while "
-"moving to the next chamber..."
+"I see no trace of Tashkar or his army. We need to remain together. These "
+"caves are home for many dangerous creatures like bats or spiders. "
+"Nevertheless we should make a thorough search. Maybe we will find where "
+"Tashkar has gone, or some treasures..."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:82
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:88
 msgid "Move to the next chamber"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:86
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:92
 msgid "(optional) Search the caves"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:105
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:250
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:111
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:256
 msgid "Only the summoner can use this item!"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:105
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:111
 msgid "Should $unit.name pick up the scimitar?"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:107
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:113
 msgid "Mystical Scimitar"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:112
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:118
 msgid ""
 "Legends say, that this scimitar was made from the spark of Abyss. His power "
 "is allegedly unbelievable.\n"
@@ -1906,77 +1936,77 @@ msgid ""
 msgstr ""
 
 #. [effect]
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:128
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:134
 msgid "mystical scimitar"
 msgstr ""
 
 #. [value]: id=mscimitar
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:142
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:148
 msgid "mistycal scimitar"
 msgstr ""
 
 #. [value]: id=mscimitar
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:143
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:149
 msgid "This unit holds a powerful scimitar."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:151
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:157
 msgid "It's a trap!"
 msgstr ""
 
 #. [message]: type=I8 Ak_HoRhami
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:155
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:161
 msgid "Those, who touch the scimitar..."
 msgstr ""
 
 #. [message]: type=I8 Ak_DharmaRhami
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:159
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:165
 msgid "...MUST DIE!!!"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:164
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:170
 msgid "Only the carpet rider can use this item!"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:164
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:170
 msgid "Should $unit.name pick up the carpet?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:203
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:209
 msgid "I've found a chest full of gold!"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:209
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:215
 msgid "500 gold"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:221
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:227
 msgid "Should $unit.name pick up the cloak?"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:221
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:227
 msgid "Only the camel rider can use this item!"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:250
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:256
 msgid "Should $unit.name pick up the cap?"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:252
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:258
 msgid "Cap of Power"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:257
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:263
 msgid ""
 "This unique headgear had to belong to a very powerful summoner. It follows "
 "from the amazing workmanship and mysterious glow trapped inside the big "
@@ -1986,32 +2016,32 @@ msgid ""
 msgstr ""
 
 #. [value]: id=mscimitar
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:299
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:305
 msgid "cap of power"
 msgstr ""
 
 #. [value]: id=mscimitar
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:300
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:306
 msgid "This unit wears a magical cap, which enhances it's magical power."
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:306
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:312
 msgid "Only the human can use this item!"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:306
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:312
 msgid "Should $unit.name pick up the armor?"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:308
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:314
 msgid "Cuirass of the Ancients"
 msgstr ""
 
 #. [object]
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:314
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:320
 msgid ""
 "Richly decorated plates, solid workmanship and magical symbols. This must be "
 "the legendary armor of Ka-Gattans. It's extraordinary shapes suits to any "
@@ -2022,65 +2052,65 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:330
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:336
 msgid "The ground is trambeling..."
 msgstr ""
 
 #. [value]: id=cota
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:341
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:347
 msgid "ancient cuirass"
 msgstr ""
 
 #. [value]: id=cota
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:342
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:348
 msgid ""
 "This unit is wearing a powerful armor, which grants additional physical "
 "resistance, but also increases susceptibility to arcane damage."
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:348
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:354
 msgid "Should $unit.name pick up the spear?"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:348
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:354
 msgid "Only the Rhami and Rhami'kai can use this item!"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:383
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:389
 msgid "Only the magical entity can use this item!"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:383
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:389
 msgid "Should $unit.name pick up the collar?"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:421
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:427
 msgid "Should $unit.name pick up the amulet?"
 msgstr ""
 
 #. [scenario]: id=07_Kagatta
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:421
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:427
 msgid "Only the elemental entity can use this item!"
 msgstr ""
 
 #. [message]: race=akhuman
 #. [message]: type=I8 Ak_Rhami,I8 Ak_RhamiDatu,I8 Ak_RhamiKai,I8 Ak_HoRhami,I8 Ak_DharmaRhami
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:472
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:477
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:502
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:507
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:536
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:541
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:478
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:483
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:508
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:513
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:542
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:547
 msgid "Something is here. It looks like a button..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:577
+#: To_Lands_Unknown/scenarios/07_Kagatta.cfg:583
 msgid "Follow me..."
 msgstr ""
 
@@ -2114,9 +2144,9 @@ msgstr ""
 #. [side]: type=I8 enlightened_mage_of_air, id=Mage
 #: To_Lands_Unknown/scenarios/17_TheLastSummoner.cfg:108
 #: To_Lands_Unknown/scenarios/17_TheLastSummoner.cfg:112
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:635
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:646
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:658
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:670
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:681
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:693
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:53
 msgid "Mage"
 msgstr ""
@@ -2132,14 +2162,14 @@ msgid "You do not understand, human..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:278
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:291
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:102
 msgid "You cannot..."
 msgstr ""
 
 #. [message]: speaker=Dharma
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:283
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:296
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:107
 msgid "...DEFEAT ME!!!"
 msgstr ""
@@ -2185,31 +2215,30 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:535
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:670
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:476
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:611
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:434
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:569
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:378
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:513
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:196
 msgid "Defeat all enemies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:220
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:392
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:543
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:682
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:233
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:442
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:581
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:126
 #: To_Lands_Unknown/scenarios/17_TheLastSummoner.cfg:297
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:189
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:243
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:333
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:484
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:623
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:240
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:342
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:481
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:596
-#: To_Lands_Unknown/scenarios/10_Message.cfg:245
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:244
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:386
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:525
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:245
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:351
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:421
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:509
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:624
+#: To_Lands_Unknown/scenarios/10_Message.cfg:248
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:476
 #: To_Lands_Unknown/scenarios/08_BridgeofLight.cfg:204
 msgid "Death of Rashti"
@@ -2271,7 +2300,7 @@ msgid "You'll pay for this. Kill him and set Tashkar free!"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:216
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:229
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:118
 msgid "Defeat Aerius"
 msgstr ""
@@ -2355,7 +2384,9 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:241
-msgid "You'd better hurry up before we fall to this... hell."
+msgid ""
+"You'd better hurry up before we fall to this... hell. And don't get yourself "
+"killed. You're the ultimate being, without you we would lost the Abyss!"
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -2381,13 +2412,13 @@ msgstr ""
 #. [message]: type=I8 Ak_HoRashti
 #. [message]: speaker=Rashti
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:578
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:623
 #: To_Lands_Unknown/scenarios/09_Chaos.cfg:360
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:423
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:539
 #: To_Lands_Unknown/scenarios/16_TheCityofLight.cfg:188
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:642
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:975
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:677
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1015
 msgid "..."
 msgstr ""
 
@@ -2516,32 +2547,32 @@ msgid "Mag-Magar is under at..."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/10_Message.cfg:227
+#: To_Lands_Unknown/scenarios/10_Message.cfg:230
 msgid "Who are they?! Rashti! Mehir! Save us!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/10_Message.cfg:232
+#: To_Lands_Unknown/scenarios/10_Message.cfg:235
 msgid "...death..."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/10_Message.cfg:237
+#: To_Lands_Unknown/scenarios/10_Message.cfg:240
 msgid "Defeat the intruders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/10_Message.cfg:249
-msgid "Death of 2 Council's members"
+#: To_Lands_Unknown/scenarios/10_Message.cfg:252
+msgid "Death of 3 Council's members"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/10_Message.cfg:265
+#: To_Lands_Unknown/scenarios/10_Message.cfg:268
 msgid "No!!!"
 msgstr ""
 
 #. [message]: type=I8 Ak_Elder
-#: To_Lands_Unknown/scenarios/10_Message.cfg:309
+#: To_Lands_Unknown/scenarios/10_Message.cfg:312
 msgid ""
 "Those being assuredly attack Mag-Magar. There's no time for idle chat. "
 "Mehir, take Rashti and your men with you. Maybe it's not too late. As soon "
@@ -2550,7 +2581,7 @@ msgid ""
 msgstr ""
 
 #. [message]: id=Mehir
-#: To_Lands_Unknown/scenarios/10_Message.cfg:321
+#: To_Lands_Unknown/scenarios/10_Message.cfg:324
 msgid "Azagath Mag-Magar Arath!"
 msgstr ""
 
@@ -2603,73 +2634,73 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:230
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:231
 msgid ""
 "You can use the giant circle you are standing on in order to recruit or "
 "recall units."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:235
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:236
 msgid "Defeat all invaders"
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:247
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:248
 msgid "Death of Malib"
 msgstr ""
 
 #. [message]: speaker=Matriarch1
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:259
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:260
 msgid "...ris..."
 msgstr ""
 
 #. [message]: speaker=Matriarch2
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:264
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:265
 msgid "...aris..."
 msgstr ""
 
 #. [message]: speaker=Matriarch3
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:269
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:270
 msgid "Tharis"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:275
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:276
 msgid "Something's wrong..."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:283
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:284
 msgid "In Nomolas's name!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:438
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:439
 msgid "Good Nomolas! What was THAT?!"
 msgstr ""
 
 #. [message]: speaker=Matriarch3
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:443
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:444
 msgid "Aaaaarrrghh!!!"
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:448
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:449
 msgid ""
 "The circle has been destroyed! We've lost contact with the capital, and that "
 "means reinforcements will arrive in a few weeks! We're lost..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:453
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:454
 msgid ""
 "Now every single blade is important. We must kill these witches - it may be "
 "our only chance to stop the invaders."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:459
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:460
 msgid ""
 "May Nomolas grant that.\n"
 "Now it's all the same for me. I prefer dying in battle than staying here, "
@@ -2677,74 +2708,72 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:637
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:638
 msgid "Hey, what's going on? Everything is disappearing..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:681
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:685
 msgid "Hello, is there anybody around here?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:819
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:834
 msgid "Hahahaaahaaaaaaaaaa!!!"
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:840
-msgid "...Mehir..."
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:871
+msgid "Don't you recognize us?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:845
-msgid "I have heard that voice before. Bakha?! You're alive? How..."
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:876
+msgid "You look familiar..."
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:850
-msgid ""
-"You stupid coward, I lost my life because of you, and after that you allied "
-"with my murderers!"
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:881
+msgid "You stupid cloth! We are the ones who died for you!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:855
-msgid "...Bakha, it's not like that..."
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:886
+msgid "Oh my... You're my lost soldiers! It's impossible..."
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:860
-msgid "Silence, you stupid cloth! I know everything!"
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:891
+msgid "You fool, Because of you we will never see the Abyss!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:865
-msgid "So you know I had no choice..."
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:896
+msgid "I... I am so sorry... Please, understand..."
 msgstr ""
 
 #. [message]: speaker=Bakha
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:870
-msgid "You fool, you are not worthy to live. DIE!!!"
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:901
+msgid "Sorry? Is this all you have to say? How dare you... KILL HIM!!!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:875
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:906
 msgid "Please, NOOO!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:897
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:939
 msgid "Mehir, it's all gone. You're safe now."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:930
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:972
 msgid "I... What happened? Am I alive?"
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:935
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:977
 msgid ""
 "These witches have cast a spell on you. You flied into a fury and started "
 "killing our men. We are lucky that holy Rashti'rhami have killed the witch "
@@ -2752,31 +2781,31 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:940
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:982
 msgid ""
 "I thought I was killing witches, but they were my own men. It was "
 "terrible...."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:945
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:987
 msgid ""
 "There's no time for talk. These sons of Efreeti won't give up. We must kill "
 "them all.."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:995
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:1037
 msgid "WE DID IT!!! Mehir, you're my hero!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:1000
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:1042
 msgid "Indeed, we have defended the city."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:1005
+#: To_Lands_Unknown/scenarios/11_Mag_Magar.cfg:1047
 msgid ""
 "I am infinitely grateful to you. Without your help... as soon as the first "
 "carpets arrive from Al-Kamija, I'll go and speak with the Highest Council. "
@@ -2841,80 +2870,91 @@ msgstr ""
 
 #. [message]: speaker=Malib
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:138
-msgid ""
-"But he managed to do the impossible. Apart from that, the holy Rashti'rhami "
-"told me that Mehir is worthy becoming her master."
+msgid "It was impossible to save Mag Magar from day to day, yet he did."
 msgstr ""
 
 #. [message]: speaker=Elder2
 #: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:143
+msgid ""
+"He is inexperienced! If Rashti should die under his command, her energies "
+"could tear the Abyss and ruin the Great Circle!"
+msgstr ""
+
+#. [message]: speaker=Malib
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:148
+msgid ""
+"The holy Rashti'rhami told me that Mehir is worthy of becoming her master."
+msgstr ""
+
+#. [message]: speaker=Elder2
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:153
 msgid ""
 "Rashti is unpredictable. She can say many things between her moods of rage "
 "or self-control."
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:148
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:158
 msgid "Do you want me to tell her that?"
 msgstr ""
 
 #. [message]: speaker=Elder2
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:153
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:163
 msgid ""
 "Please, don't! I beg you! If you'll tell her, she will rip my throat out!"
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:159
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:168
 msgid "So we have come to an understanding. I knew I count on you. bye!"
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:164
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:173
 msgid "Hey, wait! Damn, he's gone..."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:182
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:191
 msgid "Welcome. We are here to establish a new leader for Tar-Tabar."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:187
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:196
 msgid ""
 "The Highest Council has contemplated  a long time on the subject and finally "
 "made an unanimous... "
 msgstr ""
 
 #. [message]: speaker=Malib
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:192
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:201
 msgid "*cough*"
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:197
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:206
 msgid "...decision. The meeting elected Mehir the new leader!"
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:202
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:211
 msgid "We chose him in recognition of his achievements. Mehir, come closer."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:208
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:217
 msgid ""
 "By the power given me by the Highest Council and in the name of all citizens "
 "of our country and the Abyss I grant you the title leader of Tar-Tabar!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:257
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:266
 msgid "I hope it's not a dream."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:262
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:271
 msgid ""
 "Of course not! Tar-Tabar has finally a new keeper. Its people are now your "
 "subjects and the local army has a new commander. This is a great "
@@ -2922,7 +2962,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:267
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:276
 msgid ""
 "Oh, I almost forgot. Each leader of the Trinity has their own ultimate being "
 "as a servant. For Tar-Tabar it is Rashti'rhami, the one who you've had the "
@@ -2931,31 +2971,32 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:272
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:281
 msgid "(whispers) ...can I resign? She scares me..."
 msgstr ""
 
 #. [message]: speaker=Elder
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:278
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:287
 msgid ""
-"(whispers) ...shut up... (speaks normally) In spite of everything I hope, "
+"(whispers) ...shut up... (speaks normally) In spite of everything, I hope "
 "you will be a successful team, which will allow us to move to the Abyss "
-"faster than we are expecting.\n"
+"faster than expected. Take care of her. Her death would cause disastrous "
+"consequences for the Abyss.\n"
 "I think it's all I have to say, so let the party begin!"
 msgstr ""
 
 #. [message]: type=I8 Ak_SummonerII
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:283
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:292
 msgid "Hurray!!!"
 msgstr ""
 
 #. [message]: type=I8 Ak_CarpetMaster
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:288
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:297
 msgid "Cheers for Mehir!!!"
 msgstr ""
 
 #. [message]: type=I8 Ak_Summoner
-#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:293
+#: To_Lands_Unknown/scenarios/12_A_New_Leader.cfg:302
 msgid "Ale!!!"
 msgstr ""
 
@@ -2977,9 +3018,9 @@ msgstr ""
 msgid ""
 "A few weeks have passed before Mehir explored the palace of Tar-Tabar and "
 "met his servants. Under the supervision of old summoning veterans he has "
-"learned how to use a Megacircle, a necessary spell for all true Summoner "
-"masters. He also learned how to lead his troops in order to make his new "
-"army as effective as it was under Tashkar's command.\n"
+"learnt how to use a Megacircle, a necessary spell for all true Summoner "
+"masters. He also learnt how to lead his troops in order to make his new army "
+"as effective as it was under Tashkar's command.\n"
 "The mysterious messengers of death that have destroyed Mag-Magar haven't "
 "returned."
 msgstr ""
@@ -3001,14 +3042,14 @@ msgstr ""
 #. [part]
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:31
 msgid ""
-"Some days ago one of the Efreeti revolted against his masters from Sud-Affar "
+"Few days ago one of the Efreeti revolted against his masters from Sud-Affar "
 "and fled to the Great Desert. It won't be anything special, for things like "
 "this happen in Al-Kamija once in a while, if not for the fact that this "
-"Efreet have convinced other magical creatures to follow him. Now, they "
-"wander through the desert and are a real threat to one of cities or even to "
-"the capital. Scouts have discovered the location of these corrupted beings. "
-"It turned out they are near Tar-Tabar, so Mehir was the one ordered to "
-"defeat them."
+"Efreet had convinced other magical creatures to follow him. Now, they wander "
+"through the desert and are a real threat to one of cities or even to the "
+"capital. Scouts have discovered the location of these corrupted beings. It "
+"turned out they are near Tar-Tabar, so Mehir was the one ordered to defeat "
+"them."
 msgstr ""
 
 #. [side]: type=I8 Ak_SummonerIII, id=Mehir, id=Banisher
@@ -3068,10 +3109,8 @@ msgstr ""
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:146
 msgid ""
-"That's... fantastic. It was supposed to be easy... My first mission as a "
-"leader and the personification of destruction on the horizon... I am not "
-"surprised at all that he persuaded so many creatures to follow him. "
-"Nevertheless I think we will make it, because now I can use jinns!"
+"That's... fantastic. I am not surprised at all that he persuaded so many "
+"creatures to follow him. But I will not fail, because now I can use jinns!"
 msgstr ""
 
 #. [message]: speaker=Banisher
@@ -3089,7 +3128,9 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:156
-msgid "And Rashti? What about her? Can I use her? She's half-good..."
+msgid ""
+"Thank you, for sparing me a terrible mistake. What of Rashti? Can I use her? "
+"She's half-good..."
 msgstr ""
 
 #. [message]: speaker=Banisher
@@ -3102,16 +3143,17 @@ msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:166
-msgid "So how should we defeat that thing?"
+msgid "No jinns, no Rashti, damn! I do not want my men to die needlessly."
 msgstr ""
 
 #. [message]: speaker=Banisher
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:171
 msgid ""
-"Use humans, especially dispellers and banishers, who are skilled in fighting "
-"with this kind of magical creatures. Elementals are good too. They cannot "
-"think, so it is impossible to delude them. You can also use perfectly good "
-"beings such as HoRhamis or Wonderful Jinns - they will never betray us."
+"My liege, use elementals. They cannot think, so it is impossible to delude "
+"them. You can also use perfectly good beings such as HoRhamis or Wonderful "
+"Jinns - they will never betray us. Do not summon Rhamis and Jinns. Use "
+"dispellers and banishers, who are skilled in fighting these magical "
+"creatures. Use the power of your megacircle to lead and heal your men."
 msgstr ""
 
 #. [message]: speaker=Mehir
@@ -3314,7 +3356,7 @@ msgstr ""
 
 #. [message]: speaker=Rashti
 #: To_Lands_Unknown/scenarios/13_Great_Desert.cfg:559
-msgid "...I felt like there was no good nor evil in me. I was Unity..."
+msgid "...I died.  felt like there was no good nor evil in me. I was Unity..."
 msgstr ""
 
 #. [message]: speaker=Banisher
@@ -3456,7 +3498,7 @@ msgstr ""
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:25
 msgid ""
 "These words have intrigued Mehir, who noticed similarities between what "
-"Atiros told, to the siege of Mag-Magar. The newcomer continued. When the "
+"Atiros told, and the siege of Mag-Magar. The newcomer continued. When the "
 "fall of the middle-lands was certain, Anthi realized that the Kharosan army "
 "can't defeat such a powerful enemy. But there was a hope in one of their... "
 "legends, which told a story about their legendary siblings who abandoned "
@@ -3468,7 +3510,7 @@ msgstr ""
 #. [part]
 #: To_Lands_Unknown/scenarios/14_Far_North.cfg:28
 msgid ""
-"Atiros, as a one of two most powerful warriors of Kharos, had been ordered "
+"Atiros, as one of the two most powerful warriors of Kharos, had been ordered "
 "to find them. First, he had set out to Acacia Forest to find magical fount "
 "of the Water of Life, which had helped him to travel safely through the "
 "desert. He had managed to acquire some of this wonderful liquid just in time "
@@ -3521,121 +3563,132 @@ msgid "Invaders"
 msgstr ""
 
 #. [set_menu_item]: id=control_lightning
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:192
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:158
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:171
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:137
 msgid "turn on/off lightnings"
 msgstr ""
 
 #. [set_menu_item]: id=control_rain
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:221
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:187
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:200
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:166
 msgid "turn on/off rain sound"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:265
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:244
 msgid ""
 "This mission has special effects in form of rainy weather, which may slow "
 "down performance in older computers."
 msgstr ""
 
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:267
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:246
 msgid "Load rain"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:279
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:258
 msgid "Continue without rain"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:287
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:231
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:266
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:210
 msgid ""
 "You can always turn on/off some weather effects. To do that right-click "
 "anywhere on the map and choose, which effects you want to disable or enable."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:295
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:236
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:274
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:218
 msgid "What a warm welcome for a return after a thousand years..."
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:300
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:241
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:279
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:223
 msgid ""
 "Pardon, Mehir, but we are on the border of two different climate zones and "
 "storms are a common phenomenon here."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:306
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:247
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:284
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:228
 msgid ""
 "It's the first time I have seen water falling from the sky. Something like "
-"that could be very useful on our desert.\n"
-"Where are inhabitants of this land? I can't see anyone else."
+"that could be very useful on our desert."
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:311
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:289
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:233
+msgid "Let's not waste time. Saffaros is in front of us. Follow me."
+msgstr ""
+
+#. [message]: speaker=Dedylos
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:298
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:242
+msgid "I can see someone in the distance..."
+msgstr ""
+
+#. [message]: speaker=Atiros
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:303
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:247
+msgid "Hello, Dedylos. Look who is coming with me!"
+msgstr ""
+
+#. [message]: speaker=Dedylos
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:308
 #: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:252
 msgid ""
-"Honestly speaking, no-one awaits us. Adult people don't believe in fairly "
-"tales, so they think I'm dead..."
+"I can't believe my own eyes. Anthi knew who should be chosen for this "
+"suicidal mission. You're our hero, Atiros."
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:316
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:313
 #: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:257
 msgid ""
-"North from here there's a town called Saffaros, or at least there was when I "
-"left this land. A friend of mine lives near that river; I'll visit him and "
-"ask about the situation in our country so we will be able to decide what to "
-"do next."
+"There's no time for idle chat. Please, meet Mehir, the leader of Summoners "
+"of Tar-Tabar. He was the only one who had decided to help us in our plight."
+msgstr ""
+
+#. [message]: speaker=Dedylos
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:318
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:262
+msgid ""
+"Welcome, stranger. Your help is a matter of life and death; we can't defeat "
+"them alone."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:321
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:262
-msgid "Do what is necessary. We're only guests."
-msgstr ""
-
-#. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:327
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:268
-msgid "Hello, is there anybody here?"
-msgstr ""
-
-#. [message]: speaker=Rider
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:334
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:275
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:323
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:267
 msgid ""
-"Atiros? It's you? Thank the Sun, you're still alive! Have you found them?"
+"Wel-met, Dedylos. As it happened, I fought this enemy and I have valuable "
+"experience which can be very useful to us all."
 msgstr ""
 
-#. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:339
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:280
+#. [message]: speaker=Dedylos
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:328
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:272
 msgid ""
-"Our legendary siblings truly exist and have just arrived. Tell me, has "
-"Kharos fallen?"
+"That's great. We were looking for someone like you. I will send a messenger "
+"to Kharos to announce the amazing news, and in the meantime, I invite you to "
+"my castle, where we should discuss our next steps."
 msgstr ""
 
-#. [message]: speaker=Rider
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:344
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:285
-msgid ""
-"Amazing, you managed to get reinforcements which no-one has expected, and in "
-"time when Kharos needs them like never before."
+#. [message]: speaker=narrator
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:367
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:311
+msgid "Two hours later..."
 msgstr ""
 
-#. [message]: speaker=Rider
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:349
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:290
+#. [message]: speaker=Dedylos
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:372
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:316
 msgid ""
 "The dark armies have captured all of the cities of the middle-lands; we had "
 "to evacuate all of our citizens that live there, and now they're behind the "
@@ -3644,234 +3697,143 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:354
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:295
-msgid ""
-"So only two cities remained... Ride to Saffaros and tell Dedylos that there "
-"are reinforcements coming from the south. We will join you at evening."
-msgstr ""
-
-#. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:369
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:310
-msgid ""
-"We have lost almost all of our territories. Only Saffaros and our capital, "
-"Kharos, remain. My friend will announce us."
-msgstr ""
-
-#. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:374
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:315
-msgid ""
-"In that case, let's go to Saffaros. Maybe I will be allowed to use their "
-"garrison to recruit more troopers."
-msgstr ""
-
-#. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:384
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:325
-msgid "Get to Saffaros"
-msgstr ""
-
-#. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:396
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:547
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:686
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:337
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:488
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:627
-#: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:480
-#: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:859
-msgid "Death of Atiros"
-msgstr ""
-
-#. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:422
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:363
-msgid "I can see someone in the distance..."
-msgstr ""
-
-#. [message]: speaker=Rider
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:427
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:368
-msgid "Here they are! Our last hope!"
-msgstr ""
-
-#. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:432
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:373
-msgid "Hello, Dedylos. Look who is coming with me!"
-msgstr ""
-
-#. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:437
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:378
-msgid ""
-"I can't believe my own eyes. Anthi knew who should be chosen for this "
-"suicidal mission. You're our hero, Atiros."
-msgstr ""
-
-#. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:442
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:383
-msgid ""
-"There's no time for idle chat. Please, meet Mehir, the leader of Summoners "
-"of Tar-Tabar. He was the only one who had decided to help us in our plight."
-msgstr ""
-
-#. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:447
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:388
-msgid ""
-"Welcome, stranger. Your help is a matter of life and death; we can't defeat "
-"them alone."
-msgstr ""
-
-#. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:452
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:393
-msgid ""
-"Wel-met, Dedylos. As it happened, I fought this enemy and I have valuable "
-"experience which can be very useful to us all."
-msgstr ""
-
-#. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:457
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:398
-msgid ""
-"That's great. We were looking for someone like you. I will send a messenger "
-"to Kharos to announce the amazing news, and in the meantime, I invite you to "
-"my castle, where we should discuss our next steps."
-msgstr ""
-
-#. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:480
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:421
-msgid "Two hours later..."
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:377
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:321
+msgid "So only two cities remained..."
 msgstr ""
 
 #. [message]: speaker=Rider2
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:488
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:429
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:387
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:331
 msgid "THEY'RE HERE!!! RUN!!!"
 msgstr ""
 
 #. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:493
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:434
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:392
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:336
 msgid "But... how is it possible? They had to come from the north!"
 msgstr ""
 
 #. [message]: speaker=Rider3
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:501
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:442
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:400
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:344
 msgid "ENEMY ON THE HORIZON!!! THEY  HAVE SEIZED DEGOS!!!"
 msgstr ""
 
 #. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:506
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:447
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:405
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:349
 msgid "Does it mean..."
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:511
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:452
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:410
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:354
 msgid "And what about Kharos? Have they destroyed Kharos?"
 msgstr ""
 
 #. [message]: speaker=Rider3
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:516
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:457
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:415
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:359
 msgid "NO! THEIR MAIN STRIKE FORCE IS REGROUPING ON THE EAST!!!"
 msgstr ""
 
 #. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:521
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:462
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:420
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:364
 msgid ""
 "Thank the sun, for Kharos is untouched, for now. So they must be scouts. We "
 "must defend Saffaros. Mehir, will you help us?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:526
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:467
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:425
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:369
 msgid "You'll defend the town and I will try to prepare a counterattack."
 msgstr ""
 
 #. [objective]: condition=lose
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:551
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:690
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:492
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:631
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:446
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:585
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:390
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:529
+#: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:480
+#: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:859
+msgid "Death of Atiros"
+msgstr ""
+
+#. [objective]: condition=lose
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:450
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:589
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:394
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:533
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:484
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:855
 msgid "Death of Dedylos"
 msgstr ""
 
 #. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:635
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:576
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:534
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:478
 msgid ""
 "These monsters seem to rise to the surface in that swamp. I hope there won't "
 "be too many of them or we will never make it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:665
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:606
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:564
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:508
 msgid ""
 "If I had a Wonderful Jinn, he could've created a new, larger keep for me and "
 "strengthen the city walls..."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:674
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:615
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:573
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:517
 msgid "(optional) advance a Jinn to a Wonderful Jinn"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:717
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:658
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:616
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:560
 msgid "Wonderful Jinn, I order you to create a new keep in this town!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:722
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:663
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:621
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:565
 msgid "As you wish, Master."
 msgstr ""
 
 #. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:732
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:673
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:631
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:575
 msgid "Amazing!"
 msgstr ""
 
 #. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:761
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:702
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:660
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:604
 msgid ""
 "We did it! It's the first time we have defeated them!!! Thank you, Mehir!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:766
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:707
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:665
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:609
 msgid "I'm not surprised at all that your country is falling."
 msgstr ""
 
 #. [message]: speaker=Dedylos
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:771
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:712
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:670
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:614
 msgid "?!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:776
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:717
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:675
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:619
 msgid ""
 "Your armies consist of humans, who are very easy to kill. We, contrariwise, "
 "mainly use beings from the Abyss, which cannot be poisoned or eaten, which "
@@ -3880,10 +3842,10 @@ msgid ""
 msgstr ""
 
 #. [unstore_unit]
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:896
-#: To_Lands_Unknown/scenarios/14_Far_North.cfg:931
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:836
-#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:871
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:795
+#: To_Lands_Unknown/scenarios/14_Far_North.cfg:830
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:738
+#: To_Lands_Unknown/scenarios/14_Far_North_rain.cfg:773
 msgid "8"
 msgstr ""
 
@@ -4195,7 +4157,7 @@ msgstr ""
 #. [message]: speaker=Anthi
 #: To_Lands_Unknown/scenarios/15_GatesofKharos.cfg:1085
 msgid ""
-"The dark aura disappeared. Atiros, I send you with nothing and you came with "
+"The dark aura disappeared. Atiros, I sent you with nothing and you came with "
 "victory. May Sun bestow you with infinite Light."
 msgstr ""
 
@@ -4250,7 +4212,7 @@ msgid ""
 "scouts were searching for possible threats from the rest of the destroyed "
 "army, he spent a lot of time with Anthi, getting to know the Kharosan "
 "culture and the history of the Ancestral Lands.\n"
-"During his visit Mehir learned many things about the Kharosans and their "
+"During his visit Mehir learnt many things about the Kharosans and their "
 "religion. The Kharosans worship the Sun as God and the light as the source "
 "of life. This specific dualism reflects in their social structure. The "
 "Kharosan society is ruled by wise priestesses of the cult of light which are "
@@ -4755,67 +4717,71 @@ msgstr ""
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:100
-msgid ""
-"Yes, I am. Welcome in the Flying Kingdom, Mehir. I must admit that I am "
-"impressed. No-one from the surface was able to reach this place till now. "
-"You're the first."
+msgid "Welcome to the Palace of Omniscience, Mehir."
 msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:105
-msgid ""
-"I'm glad to hear that but this is not the point of my visit. I was told, you "
-"know how to help me..."
+msgid "We were not so welcome before..."
 msgstr ""
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:110
-msgid ""
-"You want to get to the Abyss. I know how to fulfill this wish. The question "
-"is, why I should help you? You're coming here without announcement and "
-"destroy everything that stands in your way."
+msgid "Ah! A small matter. My people do not treat guests well."
 msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:115
-msgid "We came in peace but local dwellers were hostile to us."
+msgid "We came in peace. We regret the bloodshed."
 msgstr ""
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:120
 msgid ""
-"Hundreds of years of isolation have their own rights. Our countries have "
-"always been characterized by their inaccessibility to those of the outside. "
-"The inhabitants of Al-Kamija, like those of the Sky Kingdom, do not expect "
-"guests from other lands. You should've predicted our reaction. Besides, we "
-"treated you the same way like you treated Aerius in Ka-Gatta."
+"Oh pay it no mind, almost everyone within earshot is dead anyways. I admit I "
+"am impressed! No one from the surface was able to reach this place till now. "
+"You're the first."
 msgstr ""
 
 #. [message]: speaker=Mehir
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:125
 msgid ""
-"But he had never good intentions - first, the invasion of our capital, then "
-"the attempt to steal the Lamp of Nomolas and finally the murder of my "
-"predecessor, Tashkar. Do I seem to be like him?"
+"I'm glad to hear this but this is not the point of my visit. I was told, you "
+"know how to help me."
 msgstr ""
 
 #. [message]: speaker=Guru
 #: To_Lands_Unknown/scenarios/18_Enlightment.cfg:130
+msgid "Should I help you as you helped Aerius in Ka-Gatta?"
+msgstr ""
+
+#. [message]: speaker=Mehir
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:135
+msgid ""
+"But he did not ask our help, and he never had good intentions! First the "
+"invasion of our capital, then the attempt to steal the Lamp of Nomolas, and "
+"finally the murder of my predecessor, Tashkar. Am I like him?"
+msgstr ""
+
+#. [message]: speaker=Guru
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:140
 msgid "Let him evaluate..."
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:143
-msgid "Welcome."
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:153
+msgid ""
+"Hundreds of years of isolation have their own rights! We have always been "
+"inaccessible, just like Al-Kamija. You should have predicted our reaction!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:148
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:158
 msgid "You! It's impossible! You're dead!"
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:153
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:163
 msgid ""
 "Indeed, you've kicked me rather nicely, but luckily, my friends found me in "
 "the Red Abyss and brought me back to this palace, where I was healed. And "
@@ -4823,157 +4789,157 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:158
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:168
 msgid "Rashti! Is this an illusion?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:163
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:173
 msgid "No, this man lives, and I am going to fix it."
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:168
-msgid ""
-"One of the most powerful beings from Abyss versus one of the most talented "
-"magi of this planet. This will be a real war of worlds!"
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:178
+msgid "So you have become golden, but the Abyss has given me power as well!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:179
-msgid "You won't defeat him alone!"
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:189
+msgid "Forwards men! Kill him twice! No, ten times..."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:184
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:194
 msgid "Silex silicis..."
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:211
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:224
 msgid "Now nothing will disturb us..."
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:238
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:251
 msgid "Interesting..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:243
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:256
 msgid "Did you think this is the end?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:248
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:261
 msgid "IT IS JUST THE BEGGINING!!!"
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:253
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:266
 msgid "In that case try THIS!"
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:288
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:301
 msgid "This fight lasts for too long!"
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:566
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:611
 msgid "Muwahahaha! what will you do know?"
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:597
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:642
 msgid "Hey, what does it mean?"
 msgstr ""
 
 #. [message]: type=HoRashti
 #. [message]: type=I8 Ak_DharmaRashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:602
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:612
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:647
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:657
 msgid "You're dead."
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:630
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:675
 msgid "Oh no. I won't allow you to kill me again."
 msgstr ""
 
 #. [message]: type=I8 Ak_DharmaRashti,I8 Ak_HoRashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:636
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:681
 msgid "NOW!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:747
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:792
 msgid "On your knees, you fool."
 msgstr ""
 
 #. [message]: speaker=Aerius
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:759
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:804
 msgid "Arrrgh! My legs! You've broken my LEGS!!!"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:764
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:809
 msgid "And now get off my sight... FOREVER!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:793
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:838
 msgid "What... what happened? Where's Aerius?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:798
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:843
 msgid "His 'ashes' are falling to the ocean."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:803
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:848
 msgid "How is it possible? I haven't seen anything."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:808
-msgid "I petrified you for a moment. I didn't want you to help Rashti."
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:853
+msgid ""
+"I petrified you for a moment. I didn't want you or your men to come to any "
+"harm."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:813
-msgid ""
-"Excellent. Another victim of our 'peaceful' visit. Now you will never help "
-"us."
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:858
+msgid "But if Rashti comes to harm that is ok?"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:818
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:863
 msgid ""
-"Do not panic, Mehir. It is Aerius and the others who wanted to fight, not "
-"you. So you won't be troubled any more."
+"I never doubted her. Now that her work is done, I may speak freely. I want "
+"you to go to the Abyss."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:823
-msgid "This means... you won't punish us? Now I don't understand anything."
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:868
+msgid "This means... Now I don't understand anything."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:828
-msgid "How far will you go in order to get to the Abyss?"
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:873
+msgid ""
+"Aerius had his uses, but he wanted to fight you. I would rather you perform "
+"us a great service."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:833
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:878
 msgid ""
 "I promised myself and my soldiers that we will join our families and "
 "friends. I can't break that promise."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:841
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:886
 msgid ""
 "I understand. I can help you, but it won't be easy. As you know,  the Abyss "
 "has changed its... address and hundreds of years may pass until a new circle "
@@ -4982,7 +4948,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:846
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:891
 msgid ""
 "As it happens, the inhabitants of surface, precisely speaking, the Kharosans "
 "you were visiting, own an artifact which can give us enough energy to open "
@@ -4990,72 +4956,77 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:851
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:896
 msgid "Anthi didn't tell me about that 'Ray'."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:856
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:901
 msgid ""
 "I am not surprised. It is their biggest treasure, the source of power of all "
 "sun warriors. Anthi couldn't tell someone like you about it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:861
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:906
 msgid ""
-"And now you want me to steal it?! The Kharosans help me to find this place! "
-"I can't do something like this to them! There must be another way."
+"And now you want me to steal it?! The Kharosans helped me to find this "
+"place! I can't do something like this to them! There must be another way."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:866
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:911
 msgid ""
 "No one wants you to steal the whole Sun Ray. We need only the half to open "
 "the gate."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:871
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:916
 msgid "But wouldn't it decrease their safety?"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:876
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:921
 msgid ""
 "I do not think so. The Kharosans have been using only a small percentage of "
 "its power. The half shouldn't make them any difference."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:881
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:926
 msgid ""
 "But you said that this is their treasure, so they won't give it to me "
 "voluntarily. I don't want to fight them!"
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:886
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:931
 msgid ""
 "This is not my problem. I do not care how you will obtain it. Just bring me "
 "the half of the Sun Ray if you want to see the Abyss."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:891
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:936
 msgid "Damn you..."
 msgstr ""
 
 #. [message]: speaker=Guru
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:896
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:941
 msgid "Have you said something?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:901
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:946
 msgid ""
 "I will bring this damn Ray to you, but if somebody dies, you'll be the one "
 "responsible for it! I hope Anthi will forgive me this..."
+msgstr ""
+
+#. [message]: speaker=Guru
+#: To_Lands_Unknown/scenarios/18_Enlightment.cfg:978
+msgid "May the Abyss keep you..."
 msgstr ""
 
 #. [scenario]: id=19_SunDome
@@ -5133,284 +5104,296 @@ msgid ""
 "you come with me. I may need your help down there."
 msgstr ""
 
+#. [message]: speaker=narrator
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:218
+msgid "You can now recruit dimensional gates, air and earth elementals."
+msgstr ""
+
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:224
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:229
 msgid "Move Mehir to the Sun Dome"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:228
-msgid "Ferret around in the Dome with Rashti"
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:233
+msgid "Search the Dome for the Sun Ray"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:232
-msgid "Wait for your ship to pick you up from the mountain top."
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:237
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:343
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:413
+msgid "Wait for your ship to pick you up from the mountain top"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:307
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:312
 msgid "I could've expected this - of course it's closed. I'll blow it up."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:321
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:326
 msgid ""
 "Damn! This doors are resistant to magic! Rashti, come here and help. Your "
 "divine strength should crush them into pieces."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:334
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:339
 msgid "Move Rashti to the Sun Dome"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:368
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:377
 msgid "Done..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:373
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:382
 msgid "At least! And now get inside and bring me a half of this damned Ray!"
 msgstr ""
 
 #. [message]
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:379
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:388
 msgid ""
 "You'll pay for destroying our Holy Place, you... you night demons! The Sun "
 "will burn you with it's Divine Flames!!!"
 msgstr ""
 
+#. [objective]: condition=win
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:409
+msgid "Wait for Rashti"
+msgstr ""
+
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:428
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:456
 msgid "I have it."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:433
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:461
 msgid "Hide it! It's glow is blinding!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:444
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:472
 msgid "Now it's much better. What took you so long?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:449
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:477
 msgid "There was a guard. I had to annihilate him."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:454
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:482
 msgid ""
 "We have the thing we have come for. It's time to flee. Fall back people! Our "
 "ship will arrive soon."
 msgstr ""
 
 #. [message]
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:460
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:488
 msgid ""
 "They've captured our Treasure! We must take it back! The Sun is with us! At "
 "them!!!"
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:473
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:501
 msgid "Move Mehir to the top of the mountain"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:502
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:530
 msgid "Rashti?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:510
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:538
 msgid "I hope she's not lost? Damn..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:530
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:558
 msgid "Rashti, what's the situation?"
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:535
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:563
 msgid "I have just broken another door and found a tunnel."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:540
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:568
 msgid "The artifact must be there. Find it, quick!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:573
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:601
 msgid "Now we need to wait. May it won't take too long..."
 msgstr ""
 
 #. [objective]: condition=win
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:588
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:616
 msgid "Survive until the ship arrives."
 msgstr ""
 
 #. [message]: speaker=Anthi
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:613
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:641
 msgid ""
 "Mehir, why... why have you done this to us? We gave you hope, and you "
 "brought us destruction. What happened to you?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:618
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:646
 msgid "Anthi... forgive me. It was the only way."
 msgstr ""
 
 #. [message]: speaker=Anthi
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:623
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:656
 msgid "And Atiros? Where... Is he? No... "
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:628
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:661
 msgid "I..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:637
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:672
 msgid ""
 "It seems we're in time. Forgive us for this little delay, but we have found "
 "a rare specimen of crab had to make a closer look."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:648
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:683
 msgid "So Mehir? Will you go in or not?"
 msgstr ""
 
 #. [message]: speaker=Anthi
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:653
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:688
 msgid "...it's all my fault..."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:660
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:695
 msgid "Time flies and the Abyss awaits!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:665
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:700
 msgid "...farewell..."
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:741
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:776
 msgid ""
 "What's happening here? Mehir?! How did you get here, and what brings you "
 "here?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:746
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:781
 msgid "I am seizing something which is invaluable for both of us."
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:751
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:786
 msgid ""
 "You've turned against us and after all you did for us? You.. you.. monster! "
 "I will never allow someone like you to touch our holy Ray!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:756
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:791
 msgid ""
 "We know each other too long. I don't want to kill you, but I will if you "
 "won't leave me a choice."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:774
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:809
 msgid "Where is that damn ship?!"
 msgstr ""
 
 #. [message]
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:896
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:931
 msgid "Silver warriors from Kharos report for duty! Reinforcements are coming."
 msgstr ""
 
 #. [message]: type=I8 Kharos_SunGoldenwarrior
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:901
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:936
 msgid "Just in time!"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:906
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:941
 msgid "I need to capture their villages. This will stop them from coming."
 msgstr ""
 
 #. [message]
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:916
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:951
 msgid ""
 "We are reinforcements from Kharos. The Highest Priestess will come soon."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:921
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:956
 msgid "We don't have much time..."
 msgstr ""
 
 #. [message]: speaker=Rashti
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:937
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:972
 msgid "We are surrounded. I can hear reinforcements coming from east and west."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:944
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:979
 msgid "Damn it! We have some time before they reach us. We'd better hurry up."
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:960
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1000
 msgid ""
 "Who would predict that when I found you on the desert, I also found my own "
 "death..."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:965
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1005
 msgid "I didn't want this."
 msgstr ""
 
 #. [message]: speaker=Atiros
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:970
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1010
 msgid "...aghhh... I believe you...hhh...and for...give you..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:988
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1028
 msgid "Target locked. Executing pacification procedure."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:993
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1033
 msgid "Wow!"
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1006
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1046
 msgid "Target destroyed. Awaiting orders."
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1011
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1051
 msgid "Where do they take so much energy from?"
 msgstr ""
 
 #. [message]: speaker=Mehir
-#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1024
+#: To_Lands_Unknown/scenarios/19_SunDome.cfg:1064
 msgid "It's very steep here. We'd better watch our step."
 msgstr ""
 
