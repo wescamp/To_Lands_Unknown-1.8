@@ -9,22 +9,24 @@
 "Artwork & Levels Design"
  - inferno8
 
-"Writing Tweaks"
- - bvanevery
+"Writing Revisions"
+ - Brandon J. Van Every (bvanevery)
  - barowei
+
+"WML Debugging"
+ - Brandon J. Van Every (bvanevery)
 
 "Proof-reading"
  - sur.nhm
  - Dixie
  - wesfreak
  - bigkahuna
- - Mitvailer
 
 "Gameplay Testing"
  - inferno8
  - Sagez
  - barowei
- - bvanevery
+ - Brandon J. Van Every (bvanevery)
  - Captain_Wrathbow
 
 "Terrain Code Improvements"
